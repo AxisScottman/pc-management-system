@@ -17,6 +17,9 @@ A React-based IT asset management system designed to help administrators monitor
 <img width="379" height="220" alt="Screenshot 2026-05-13 152045" src="https://github.com/user-attachments/assets/d979ceda-f666-46cf-ae6a-2778fc2553af" />
 <img width="476" height="718" alt="Screenshot 2026-05-13 152018" src="https://github.com/user-attachments/assets/d233f70a-d2c9-4360-8e75-aef958213f51" />
 <img width="2559" height="856" alt="Screenshot 2026-05-13 151843" src="https://github.com/user-attachments/assets/2eed845c-b018-42aa-b34c-3464c9b55159" />
+<img width="916" height="324" alt="Screenshot 2026-05-13 152056" src="https://github.com/user-attachments/assets/5b8277a7-8d21-4ba3-80f2-2e062f85d551" />
+<img width="476" height="718" alt="Screenshot 2026-05-13 152018" src="https://github.com/user-attachments/assets/0750e3e1-2e4a-4b92-adc7-76b1211211b8" />
+<img width="2559" height="1356" alt="Screenshot 2026-05-13 151705" src="https://github.com/user-attachments/assets/b8a206c4-5188-472f-a61a-3d93897a6bf3" />
 
 
 ## ✨ Features
