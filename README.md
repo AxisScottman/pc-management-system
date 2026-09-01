@@ -1,7 +1,6 @@
 # PC Management System
 
-A React-based IT asset management system designed to help administrators
-monitor, organize, and manage PC lab infrastructure.
+A React-based IT asset management system designed to help administrators monitor, organize, and manage PC lab infrastructure through interactive hardware visualization, role-based access control, automated PC ranking, audit logging, and a responsive interface.
 
 
 ## 🎥 Demo & Presentation
