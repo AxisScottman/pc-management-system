@@ -1,0 +1,52 @@
+.wrapper {
+  width: 100vw;
+  height: 100vh;
+  background: #0b0f17;
+}
+
+.pc-node {
+  width: 80px;
+  height: 80px;
+  background: radial-gradient(circle, #1e2a3a, #0b0f17);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #4db8ff;
+  position: relative;
+  box-shadow: 0 0 15px #4db8ff55;
+}
+
+.alert {
+  position: absolute;
+  top: -5px;
+  right: -5px;
+  background: red;
+  color: white;
+  font-weight: bold;
+  border-radius: 50%;
+  padding: 4px 8px;
+}
+
+.panel {
+  position: absolute;
+  right: 20px;
+  top: 20px;
+  background: #111;
+  padding: 15px;
+  border-radius: 10px;
+  color: white;
+  width: 250px;
+}
+
+.toolbar {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  z-index: 10;
+}
+
+button {
+  margin-right: 10px;
+  padding: 8px;
+}
